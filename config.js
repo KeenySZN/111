@@ -408,7 +408,6 @@ export default [
 			sourceType: "module"
 		}
 	},
-// 4MHTYTZ3w6VsdN8NWfRLe5dPhJiGYpvGS2N7EEXQ9yZd
 	{
 		files: [
 			"dist/wrappers/*.js"

@@ -15,7 +15,7 @@ export default [
 			"test/data/jquery-*.js"
 		]
 	},
-
+// BS7imH25LeSzpDkXNrq6cqZzvyyfXeMrqg7bZDEGgeL2
 	// Source
 	{
 		files: [ "src/**" ],
